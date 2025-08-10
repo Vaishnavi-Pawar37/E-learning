@@ -228,12 +228,12 @@ export const contactInfo = [
   {
     id: 1,
     icon: RiPhoneFill,
-    label: "hello@skillbridge.com",
+    label: "+91 91813 22309",
   },
   {
     id: 2,
     icon: RiMailSendFill,
-    label: "+91 91813 23 2309",
+    label: "elearningplatform@gmail.com",
   },
   {
     id: 3,
